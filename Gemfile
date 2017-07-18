@@ -1,5 +1,8 @@
 source 'https://rubygems.org'
 
+#for authentication 
+gem "devise", "~> 3.4.1"
+
 gem "bootstrap-sass", "~> 3.3"
 gem "font-awesome-rails", "~> 4.3"
 gem "simple_form", "~> 3.1.0"
